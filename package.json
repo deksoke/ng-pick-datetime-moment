@@ -1,27 +1,4 @@
 {
-  "_from": "ng-pick-datetime-moment@^1.0.8",
-  "_id": "ng-pick-datetime-moment@1.0.8",
-  "_inBundle": false,
-  "_integrity": "sha512-aIUaKjneCqTwoDN3WUgJ692au2EtIFZW0InECs7mfYqKxXHb7+rwMe/XcDzpjH84c9PHjsyAG5s9n4gCvT/IdA==",
-  "_location": "/ng-pick-datetime-moment",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "ng-pick-datetime-moment@^1.0.8",
-    "name": "ng-pick-datetime-moment",
-    "escapedName": "ng-pick-datetime-moment",
-    "rawSpec": "^1.0.8",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.8"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/ng-pick-datetime-moment/-/ng-pick-datetime-moment-1.0.8.tgz",
-  "_shasum": "4adc644457989a5a02cb570698c317972c8fd906",
-  "_spec": "ng-pick-datetime-moment@^1.0.8",
-  "_where": "/Users/enigma/Lab/hubble/hubble-warehouse",
   "author": {
     "name": "daniel pan",
     "email": "myron.yk.pan@gmail.com"
@@ -31,11 +8,11 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@angular/animations": "^7.0.1",
-    "@angular/cdk": "^7.0.2",
-    "@angular/common": "^7.0.1",
-    "@angular/core": "^7.0.1",
-    "@angular/forms": "^7.0.1",
+    "@angular/animations": "^9.1.9",
+    "@angular/cdk": "^9.1.9",
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "@angular/forms": "^9.1.9",
     "moment": "^2.22.2",
     "ng-pick-datetime": "^7.0.0"
   },
@@ -43,8 +20,8 @@
   "description": "Angular Date Time Picker",
   "devDependencies": {
     "@angular-devkit/build-optimizer": "^0.10.3",
-    "@angular/compiler": "^7.0.1",
-    "@angular/compiler-cli": "^7.0.1",
+    "@angular/compiler": "^9.1.9",
+    "@angular/compiler-cli": "^9.1.9",
     "core-js": "^2.4.1",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
@@ -65,12 +42,12 @@
   "jsnext:main": "index.js",
   "license": "MIT",
   "module": "index.js",
-  "name": "ng-pick-datetime-moment",
+  "name": "ng-pick-datetime-moment-ng9",
   "peerDependencies": {
-    "@angular/animations": "^8.0.0",
-    "@angular/common": "^8.0.0",
-    "@angular/core": "^8.0.0",
-    "@angular/forms": "^8.0.0",
+    "@angular/animations": "^9.1.9",
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "@angular/forms": "^9.1.9",
     "moment": "^2.22.1",
     "ng-pick-datetime": "^7.0.0"
   },
